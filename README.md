@@ -1,4 +1,4 @@
 # Práctica 1
 ## Integrantes:
-Dante Mejía Silva
-/nAtzin Morales Alejandre
+-Dante Mejía Silva
+-Atzin Morales Alejandre
